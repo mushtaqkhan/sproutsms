@@ -21480,10 +21480,10 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
   order: 2;
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.friend .content .bubble {
-    /*color: #FFFFFF;*/
+    color: #FFFFFF;
     /*background-color: #0c1427;*/ 
-        color: black;
-    background-color: rgba(101,113,255,.1);
+      
+    background-color: rgb(0 0 0 / 23%);
     border-radius: 10px 10px 10px 0px; 
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.friend .content .bubble::before {
@@ -21510,8 +21510,8 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
   margin-left: auto;
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.me .content .bubble {
-    color: #1C1D22 !important;
-    background: #F2F9F2;
+    color: #ffffff !important;
+    background: rgb(1 0 24 / 57%);
     border-radius: 10px 10px 0px 10px;
     margin-left: auto;
 }
