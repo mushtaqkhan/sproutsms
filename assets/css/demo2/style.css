@@ -21470,8 +21470,7 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
     font-size: 12px;
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item .content span {
-  font-size: 11px;
-  color: #25d466;
+  font-size: 10px;
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.friend img {
   order: 1;
