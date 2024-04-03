@@ -21482,7 +21482,7 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.friend .content .bubble {
     color: #FFFFFF;
-    background-color: rgba(101,113,255,.1);
+    background-color: rgb(0 0 0 / 23%);
     border-radius: 0px 10px 0px;
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.friend .content .bubble::before {
@@ -21510,7 +21510,7 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.me .content .bubble {
     color: #FFFFFF !important;
-    background: rgba(102, 209, 209, 0.1);
+    background: rgb(1 0 24 / 57%);
     border-radius: 10px 10px 0px 10px;
     margin-left: auto;
 }
