@@ -21508,7 +21508,7 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.me .content .bubble {
     color: #ffffff !important;
-    background: rgb(1 0 24 / 57%);
+    background: rgb(12 20 39);
     border-radius: 10px 10px 0px 10px;
     margin-left: auto;
 }
