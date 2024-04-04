@@ -21481,9 +21481,7 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.friend .content .bubble {
     color: #FFFFFF;
-    /*background-color: #0c1427;*/ 
-      
-    background-color: rgb(0 0 0 / 23%);
+    background-color: #0c1427;
     border-radius: 10px 10px 10px 0px; 
 }
 .chat-wrapper .chat-content .chat-body .messages .message-item.friend .content .bubble::before {
